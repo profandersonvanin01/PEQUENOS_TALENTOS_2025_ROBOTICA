@@ -13,6 +13,9 @@
 - Aprender lógica de programação com foco em sistemas embarcados
 - Trabalhar em equipe e resolver problemas de forma criativa
 
+  ![image](https://github.com/user-attachments/assets/0af9619d-466d-49a8-895f-1e4cc9e77332)
+
+
 ## 💡 Projeto Final
 
 O curso se encerra com a montagem e programação de um **braço robótico simples**, aplicando os conhecimentos adquiridos ao longo das aulas. Este projeto busca desenvolver o raciocínio lógico, a integração de sistemas e a coordenação de equipe.
