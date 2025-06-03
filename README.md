@@ -16,6 +16,8 @@
 ## 💡 Projeto Final
 
 O curso se encerra com a montagem e programação de um **braço robótico simples**, aplicando os conhecimentos adquiridos ao longo das aulas. Este projeto busca desenvolver o raciocínio lógico, a integração de sistemas e a coordenação de equipe.
+![image](https://github.com/user-attachments/assets/9afedd55-dd42-41ac-a3f6-d14e8dc0efc7)
+
 
 ## 🤝 Agradecimentos
 
