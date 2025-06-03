@@ -6,6 +6,9 @@
 - IDE do Arduino ([disponível aqui](https://www.arduino.cc/en/software))
 - Vontade de aprender e explorar!
 
+  ![image](https://github.com/user-attachments/assets/9685d374-6a4b-4d87-8cb3-0d67004f8898)
+
+
 ## 📌 Objetivos de Aprendizado
 
 - Entender os princípios básicos da eletrônica aplicada
