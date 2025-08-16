@@ -25,6 +25,12 @@ O curso se encerra com a montagem e programação de um **braço robótico simpl
 ![image](https://github.com/user-attachments/assets/9afedd55-dd42-41ac-a3f6-d14e8dc0efc7)
 
 
+
+Drive Bibliotecas: https://drive.google.com/drive/folders/1rBKpWKj069nXLwvIrK56lJcYCR4PM3ZG?usp=sharing
+
+
+
+
 ## 🤝 Agradecimentos
 
 Agradecemos à empresa **Única** pela iniciativa e apoio ao programa social, e à **ETEC MCM** pela parceria educacional e infraestrutura oferecida.
