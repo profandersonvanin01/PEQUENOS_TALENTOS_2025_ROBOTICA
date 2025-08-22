@@ -28,7 +28,10 @@ O curso se encerra com a montagem e programação de um **braço robótico simpl
 
 Drive Bibliotecas: https://drive.google.com/drive/folders/1rBKpWKj069nXLwvIrK56lJcYCR4PM3ZG?usp=sharing
 
-
+- LINK BIBLIOTECAS: https://drive.google.com/drive/folders/1K1e_tTHy0XnPT_5hLP2gmpynsbfWvZP3
+- LINK MANUAL: https://drive.google.com/drive/folders/1rBKpWKj069nXLwvIrK56lJcYCR4PM3ZG
+- LINK MOVIMENTOS AUTOMATICOS: https://drive.google.com/drive/folders/1Gzh1e4SXq8PSNQ5ekT91kNvaygGXUErF
+- LINK POSIÇÃO 90°: https://drive.google.com/drive/folders/1BMxp56C3wSfKSMNRk4T0ZuFBpsXPp6p6
 
 
 ## 🤝 Agradecimentos
